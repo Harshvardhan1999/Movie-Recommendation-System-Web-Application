@@ -47,7 +47,7 @@ virtualenv
 Example
 
 ```
-cd ~/Destop/Movie-Recommender-System-Web-Application-master
+cd ~/Desktop/Movie-Recommender-System-Web-Application-master
 ```
 
 Create a new virtual environment in that directory
@@ -58,7 +58,7 @@ virtualenv venv -p python3.6
 
 Activate virtual environment
 ```
-source venv/bin/activate
+source venv\bin\activate
 ```
 
 Command line to install all dependencies

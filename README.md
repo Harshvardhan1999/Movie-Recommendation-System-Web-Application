@@ -1,4 +1,4 @@
-# Movie-Recommendation-System-Web-Application
+# Movie-Recommendation-System-Web-Application-Project
 Building a Movie Recommendation System web application using Django framework and Recommendation technique called Collaborative Filtering 
 - Matrix Factorization Algorithm
 The recommendation based on the underlying idea that is if two persons both liked certian common movies,then the movies that one person has liked that the other person has not yet watched can be recommended to him.  
